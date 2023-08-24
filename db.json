@@ -1,5 +1,5 @@
 {
-  "pets": [
+  "plants": [
     {
       "id": 1,
       "name": "Spider Plant-Reverse",
@@ -24,17 +24,6 @@
     },
     {
       "id": 3,
-      "name": "Maidenhair Fern",
-      "type": "pet-friendly",
-      "description": "Maidenhair Fern is a type of fern known for its delicate and airy fronds. It is a popular choice for indoor gardening as it adds a touch of elegance and greenery to any space.",
-      "size": "small",
-      "images": [
-        "https://houseplantshop.com/cdn/shop/products/6_FERN_MAIDENHAIR_1_1800x1800.jpg?v=1630968253",
-        "https://houseplantshop.com/cdn/shop/products/1-Fern-Maidenhair-4DETAIL_1800x1800.jpg?v=1630968253"        
-      ]
-    },
-    {
-      "id": 4,
       "name": "Parlor Palm",
       "type": "pet-friendly",
       "description": "A species of small palm tree native to the rainforests in Southern Mexico and Guatemala. The parlor palm is one of the most extensively sold houseplant palms in the world.",
@@ -45,7 +34,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Bird's Nest Nidus Fern",
       "type": "pet-friendly",
       "description": "Native to tropical regions such as southeast Asia, Australia, east Africa and Hawaii to name a few, Bird’s Nest Ferns (Asplenium Nidus) are typically found in palm trees. Given the right indoor environment, they will thrive and make for a wonderfully unique houseplant.",
@@ -56,18 +45,7 @@
       ]
     },
     {
-      "id": 6,
-      "name": "Fern Heart",
-      "type": "pet-friendly",
-      "description": "The Heart fern (also known as heart-leaf fern or Hemionitis arifolia), is a petite fern famous for its adorable leaves, springy stems, and heart-shaped leaves. This plant can be grown in a pot, or in a terrarium.",
-      "size": "medium",
-      "images": [
-        "https://houseplantshop.com/cdn/shop/products/3f70bcc6-130a-4189-8638-86e878e71847_1800x1800.png?v=1643764141",
-        "https://houseplantshop.com/cdn/shop/products/1-Fern-Heart-4DETAIL_1800x1800.jpg?v=1628113320"        
-      ]
-    },
-    {
-      "id": 7,
+      "id": 5,
       "name": "Palm Ponytail",
       "type": "pet-friendly",
       "description": "Beaucarnea recurvata, the elephant's foot or ponytail palm, is a species of plant in the family Asparagaceae. The species was native to numerous states of eastern Mexico but is now confined to the state of Veracruz. Despite its common name, it is not closely related to the true palms.",
@@ -78,28 +56,7 @@
       ]
     },
     {
-      "id": 8,
-      "name": "Money Tree-Guiana Chestnut",
-      "type": "pet-friendly",
-      "description": "The Money Tree, also known as the Guiana Chestnut, is a popular houseplant known for its unique braided trunk and glossy green leaves. It is believed to bring good luck and prosperity, hence its name.",
-      "size": "large",
-      "images": [
-        "https://houseplantshop.com/cdn/shop/products/8-MONEYTREE-1_78eee6de-15c9-4a64-8abe-b5cb4aee95a5_1800x1800.jpg?v=1687237359"        
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Monstera-Split Leaf",
-      "type": "tropical indoor",
-      "description": "Split-leaf philodendron, Swiss cheese plant, or windowleaf (Monstera deliciosa) is a tropical plant native to rainforests of Central America from southern Mexico to Panama, and commonly grown as a foliage houseplant.",
-      "size": "small",
-      "images": [
-        "https://houseplantshop.com/cdn/shop/products/4_MONSTERA_DELICIOSA_1_1800x1800.jpg?v=1627692378",
-        "https://houseplantshop.com/cdn/shop/products/1-Philodendron-Monstera-4DETAIL_1800x1800.jpg?v=1627692378"        
-      ]
-    },
-    {
-      "id": 10,
+      "id": 6,
       "name": "Zamioculcas Zamiifolia-ZZ",
       "type": "tropical indoor",
       "description": "ZZ plant is an erect, semi-evergreen perennial in the Araceae (ariod) family and native to Africa. The species name means with leaves like Zamia, which is an unrelated genus. This plant has a slow growth rate, reaching 2 to 4 feet in height and width.",
@@ -110,278 +67,114 @@
       ]
     },
     {
-        "id": 11,
-        "name": "Lemon Button Fern",
-        "type": "tropical indoor",
-        "description": "The lemon button fern is a dwarf variety of the common Boston fern and goes by many names including button sword fern, erect sword fern, little-leaved sword fern, and fishbone fern. The leaves give off a lemony scent when crushed.",
-        "size": "small",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/4_FERN_LEMON.BUTTON_1_1800x1800.jpg?v=1655238026",
-          "https://houseplantshop.com/cdn/shop/products/4_FERN_LEMON.BUTTON_2_1800x1800.jpg?v=1655238028"        
-        ]
-      },
-      {
-        "id": 12,
-        "name": "Dieffenbachia Camille",
-        "type": "tropical indoor",
-        "description": "an evergreen perennial cultivar with large, oval leaves that are attractively marked with dark green at the edges, fading to white in the center. Also known as Dumb Cane 'Camille'. This cultivar typically grows to around 24 inches high. Please note: Toxic to humans, cats and dogs if ingested.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/1-Dieffenbachia-Carmille-6_1800x1800.jpg?v=1664475886",
-          "https://houseplantshop.com/cdn/shop/products/1-Dieffenbachia-Carmille-6-DETAIL_1800x1800.jpg?v=1664475886"        
-        ]
-      },
-      {
-        "id": 13,
-        "name": "English Ivy-Green California",
-        "type": "tropical indoor",
-        "description": "a woody, evergreen, perennial vining plant. It features attractive, deep green colored foliage with no variegation. One of the best choices for a fast-growing arrangement or ground cover.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/4_IVY_GREEN_1_1800x1800.jpg?v=1630959922",
-          "https://houseplantshop.com/cdn/shop/products/1-Ivy-GreenCalifornia-4DETAIL_1800x1800.jpg?v=1630959922"        
-        ]
-      },
-      {
-        "id": 14,
-        "name": "Chinese Evergreen-Lady Valentine",
-        "type": "tropical indoor",
-        "description": "A species of genus aglaonema categorized under araceae plants family, native to tropical and subtropical regions of asia.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/4_CH.EVERGREEN_LADY.VALENTINE_1_1800x1800.jpg?v=1627690984",
-          "https://houseplantshop.com/cdn/shop/products/4_CH.EVERGREEN_LADY.VALENTINE_2_1800x1800.jpg?v=1655237106"        
-        ]
-      },
-      {
-        "id": 15,
-        "name": "Monstera Adansonii-Swiss Cheese",
-        "type": "tropical indoor",
-        "description": "Swiss Cheese Plant' is named so because of its huge leaves with holes in them that resembles Swiss cheese. Leaf shape changes as the leaves mature from entire to having holes to eventually having perforations often extending to and breaking through the outer edges of the leaves and result in a pinnatifid leaf shape.",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/1-Monstera-SwissCheese-6_1800x1800.jpg?v=1623090125",
-          "https://houseplantshop.com/cdn/shop/products/1-Monstera-SwissCheese-DETAIL-6_1800x1800.jpg?v=1623090125"        
-        ]
-      },
-      {
-        "id": 16,
-        "name": "Snake Plant-Laurentii",
-        "type": "tropical indoor",
-        "description": "A drought-tolerant succulent species native to West Africa. Also known as Mother-In-Law's Tongue, this herbaceous evergreen will grow upright with rosette-form leaves, which are rigid and variegated with contrasting colors (dark green, grey-green and yellow).",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/6_SNAKE_LAURENTII_1_1800x1800.jpg?v=1655240110",
-          "https://houseplantshop.com/cdn/shop/products/6_SNAKE_LAURENTII_2_1800x1800.jpg?v=1655240110"        
-        ]
-      },
-      {
-        "id": 17,
-        "name": "Snake Plant-Zeylanica",
-        "type": "tropical indoor",
-        "description": "Sansevieria zeylanica is a tough, hardy snake plant. The long sword-like leaves are dark green with wavy lighter green bands. They have rather a rugged, shabby-chic appearance often with rough, brown edges. Some minor leaf cracking is also common.",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/1-Snake-Zeylanica-6_1800x1800.jpg?v=1627696235",
-          "https://houseplantshop.com/cdn/shop/products/1-Snake-Zeylanica-6-DETAIL_ab967883-8d45-419d-aa85-fdd701b1d378_1800x1800.jpg?v=1627696235"        
-        ]
-      },
-      {
-        "id": 18,
-        "name": "Pink Hydrangea",
-        "type": "flowering",
-        "description": "A rounded hardy shrub with dark green leaves. The large mophead flowers appear in mid to late summer in a range of colours pink ,blue or white. Soil ph will change the colours of some cultivars",
-        "size": "small",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/9b64c65a-ee5b-4ecf-bb13-b15b0291b3e3_1800x1800.png?v=1664391863",
-          "https://houseplantshop.com/cdn/shop/products/4_HYDRANGEA_PINK_2.1_1800x1800.jpg?v=1661798986"        
-        ]
-      },
-      {
-        "id": 19,
-        "name": "Begonia-Frosty",
-        "type": "flowering",
-        "description": "Frosty is a bushy begonia that is erect with succulent stems. The many everblooming flowers are single and white in color. The bronze leaves are shiny, smooth and ovate. This plant can tolerate full sun.",
-        "size": "small",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_FROSTY_1800x1800.jpg?v=1680760771",
-          "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_FROSTY_2.1_1800x1800.jpg?v=1680760771"        
-        ]
-      },
-      {
-        "id": 20,
-        "name": "Orchid-Yellow Phalaenopsis",
-        "type": "flowering",
-        "description": "One of the easiest varieties of orchids to grow as a houseplant, and is often called the beginner orchid due to its easy going nature, or the moth orchid due to the shape of its blooms. Water: Phalaenopsis is a 'monopodial' orchid, which means that it grows from a single stem.",
-        "size": "small",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/4_ORCHID_PHALAENOPSIS_YELLOW_1_1800x1800.jpg?v=1681784425",
-          "https://houseplantshop.com/cdn/shop/products/4_ORCHID_PHALAENOPSIS_YELLOW_2_1800x1800.jpg?v=1681784425"        
-        ]
-      },
-      {
-        "id": 21,
-        "name": "Blue Hydrangea",
-        "type": "flowering",
-        "description": "Hydrangeas with bloom colors that range from pink through blue and purple usually belong to the hydrangea cultivars known as mopheads and lacecaps. When grown in acidic soil, the bloom colors are bluer.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/4_HYDRANGEA_BLUE_1_a00e49b7-03a0-4f73-90a9-ec1802446e44_1800x1800.jpg?v=1661455911",
-          "https://houseplantshop.com/cdn/shop/products/4_HYDRANGEA_BLUE_2.1_1800x1800.jpg?v=1661455911"        
-        ]
-      },
-      {
-        "id": 22,
-        "name": "Dipladenia Premier Hot Pink",
-        "type": "flowering",
-        "description": "Dipladenia is a tropical plant that is native to South and Central America. It has dark, hot pink, trumpet-shaped flowers that can attract a plant enthusiast. You can grow them indoors and outdoors in USDA Hardiness Zones 10a-11b. Dipladenia thrives in full sun to partial shade and well-drained soil.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/7d76677e-312e-49c7-b53e-6eb22ba11e5b_1800x1800.png?v=1664478314",
-          "https://houseplantshop.com/cdn/shop/products/4_DIPLADENIA_PREMIER.HOT.PINK_2_1800x1800.jpg?v=1661884790"        
-        ]
-      },
-      {
-        "id": 23,
-        "name": "Begonia Mocca Deep Orange",
-        "type": "flowering",
-        "description": "Mocca Deep Orange Begonia is an herbaceous annual with a mounded form. Its medium texture blends into the garden, but can always be balanced by a couple of finer or coarser plants for an effective composition.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/7178a5dc-127e-40c2-be70-d9b3cb2ab3a5_1800x1800.png?v=1664476397",
-          "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_MOCCA.DEEP.ORANGE_2_1800x1800.jpg?v=1661883113"        
-        ]
-      },
-      {
-        "id": 24,
-        "name": "Calla Lily Pink",
-        "type": "flowering",
-        "description": "A very proliferous bloomer, Zantedeschia rehmannii (Pink Calla Lily) is absolutely irresistible with its abundant and magnificent, creamy pink blushed trumpet-shaped flowers (spathes), 3 in. across (7 cm)",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/6-CALLALILY-PINK-1_1800x1800.jpg?v=1675130495",
-          "https://houseplantshop.com/cdn/shop/products/59603bb8-4975-4964-81a0-bf0d09f66eef_1800x1800.png?v=1677688324"        
-        ]
-      },
-      {
-        "id": 25,
-        "name": "Red Kalanchoe-Blossfeldiana",
-        "type": "flowering",
-        "description": "Kalanchoe blossfeldiana is a long-flowering perennial succulent that happily will grow indoors and out. For plant lovers who lack a green thumb, growing Kalanchoe can be a good way to boost self-confidence. These plants make for wonderful windowsill color as well as desk plants.",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/4-KALANCHOE-RED-1_1800x1800.jpg?v=1631568647",
-          "https://houseplantshop.com/cdn/shop/products/4-KALANCHOE-RED-2_1800x1800.jpg?v=1631568647"        
-        ]
-      },
-      {
-        "id": 26,
-        "name": "Calla Lily Purple",
-        "type": "flowering",
-        "description": "The Purple Calla Lily is a stunning plant both indoors and outdoors. This is a moderately fast grower with the ability to produce blooms all summer long. As a native to Africa, this plant grows well in tropical conditions. It prefers high humidity and temperatures, making it a great houseplant.",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/10e29a35-9075-4cba-a3e4-5ed887c12879_1800x1800.png?v=1677688283",
-          "https://houseplantshop.com/cdn/shop/products/6-CALLALILY-PURPLE-2_3e3bc066-0461-4717-8850-9889c672efd0_1800x1800.jpg?v=1664594953"        
-        ]
-      },
-      {
-        "id": 27,
-        "name": "Staurogyne Repens",
-        "type": "aquatic",
-        "description": "Staurogyne repens is a fresh green, compact and hardy plant for the foreground of the aquarium. Its nearest relative in the aquaristic is Hygrophila but Staurogyne repens is different with its marked compact, low and bushy stature and small green leaves.",
-        "size": "small",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_StaurogyneRepens_TissueCultureCup-3-01_c4e3e927-7bd1-4db1-93e1-57d6cd9e1188_2400x2400.jpg?v=1630809719",
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_StaurogyneRepens_TissueCultureCup-2-01_a0277ec7-3c2b-494b-9b55-873e8699a68c_2400x2400.jpg?v=1630809719"        
-        ]
-      },
-      {
-        "id": 28,
-        "name": "Java Moss",
-        "type": "aquatic",
-        "description": "Java moss is a freshwater species of the Hypnaceae family that is used as an aquarium carpeting plant. The versatile plant creates attractive aquascapes in home aquariums, giving the tank a lush, natural ambiance.",
-        "size": "small",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_JavaMoss_-Bunch-1-01_2400x2400.jpg?v=1630806262"
-        ]
-      },
-      {
-        "id": 29,
-        "name": "Cryptocoryne MiOya",
-        "type": "aquatic",
-        "description": "Cryptocoryne Mioya is a beautiful variety of Cryptocoryne wendtii is only found in the river Mi Oya in Sri Lanka. It has characteristic red-brown, slightly hammered leaves from 20-35 cm, and 15-30 cm wide rosettes. Many Crypt can grow at high temperatures.",
-        "size": "small",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_CryptocoryneMiOya_TissueCultureCup-2-01_bae340ee-885d-4737-8328-00aaaad4b155_2400x2400.jpg?v=1630712766",
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_CryptocoryneMiOya_TissueCultureCup-1-01_13239747-eb43-4894-83cb-b72e40877318_2400x2400.jpg?v=1630712766"        
-        ]
-      },
-      {
-        "id": 30,
-        "name": "Anubias Nana Golden",
-        "type": "aquatic",
-        "description": "Anubias Golden Nana is a beautiful Anubias species with a gold, yellow, golden color which grows similar to the popular Anubias Nana. Anubias Golden is hardy and suitable for any fish tanks and aquariums. It is also suitable for aggressive fish like Cichlids or large fish like Arowana.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasNanaGolden_-01_d81e4d8e-4328-4ff4-b17c-b8c1e02fec69_1546x1546.jpg?v=1630369041",
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasNanaGolden_-4-01_d860870f-b467-46bb-a3c1-00b083930c30_1546x1546.jpg?v=1630369042"        
-        ]
-      },
-      {
-        "id": 31,
-        "name": "Java Fern",
-        "type": "aquatic",
-        "description": "Java Fern is one of the world’s most widely used plants in planted aquariums. It slow growth, unique leaf structure, and reproduction method makes it an aquarium smash hit. Java Fern tolerates most lighting conditions and many environments – from soft acidic water to alkaline conditions, and even brackish tanks.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/AquaticMicrosorumPteropus_JavaFern_-2-01_de76d15a-2342-41c5-95d3-98bdb27da0d5_2400x2400.jpg?v=1631062729",
-          "https://houseplantshop.com/cdn/shop/products/AquaticMicrosorumPteropus_JavaFern_-4-01_056c54bf-299e-4592-b511-6890f2edc27f_2400x2400.jpg?v=1631062729"        
-        ]
-      },
-      {
-        "id": 32,
-        "name": "Water Wisteria",
-        "type": "aquatic",
-        "description": "Hygrophila difformis, commonly known as water wisteria, is an aquatic plant in the acanthus family. It is found in marshy habitats on the Indian subcontinent in Bangladesh, Bhutan, India and Nepal. It grows to a height of 20 to 50 cm with a width of 15 to 25 cm.",
-        "size": "medium",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/AquaticHygrophilaDifformis_WaterWisteria_Plant-3-01_9861bb56-de1f-4974-92a1-101a8cb196c0_2400x2400.jpg?v=1631061797",
-          "https://houseplantshop.com/cdn/shop/products/AquaticHygrophilaDifformis_WaterWisteria_Plant-2-01_6a8850e5-1b0c-48f9-9eab-2bef8f8c357a_2400x2400.jpg?v=1631061797"        
-        ]
-      },
-      {
-        "id": 33,
-        "name": "Anubias Nana",
-        "type": "aquatic",
-        "description": "Anubias nana is a short plant with broad leaves. Its dark green colors make it an attractive plant and it will help keep your tank water clean and oxygenated.",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasNana_-2-01_d4d12541-0657-4cd6-80d2-413a69e41a58_1546x1546.jpg?v=1630369940",
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasNana_-3-01_88385829-1795-4b76-8e1c-367098c7174e_1546x1546.jpg?v=1630369941"        
-        ]
-      },
-      {
-        "id": 34,
-        "name": "Anubias Congensis",
-        "type": "aquatic",
-        "description": "Anubias Congensis (Anubias heterophylla) is an Anubias species that is becoming more well-known in the aquarium hobby due to its attractive appearance, durability, and ease of care. Its deep green, thick leaves stand out and provide valuable refuge for aquatic animals.",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasCongensis_-2-01_2_ae62a18f-c9b4-498b-a182-4b9ce0eecd32_1546x1546.jpg?v=1630112368",
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasCongensis_-2-01_1_6cdf4698-fa67-4bc4-b9c9-d7b54740c263_1546x1546.jpg?v=1630112368"        
-        ]
-      },
-      {
-        "id": 35,
-        "name": "Anubias Hastifolica",
-        "type": "aquatic",
-        "description": "Anubias Hastifolia is a unique variant of Anubias which can be distinguished by the arrowhead-shaped leaves.  Like other Anubias it can grow in both aquariums and terrariums either submerged or emersed.  It has slightly longer stems compared to smaller variants such as Anubias Nana or Congensis which makes it suitable for the midground or background of an aquarium.",
-        "size": "large",
-        "images": [
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasHastifolica_-2-01_b1a0e801-0925-4700-b3c8-2c60406f07bb_1546x1546.jpg?v=1630366754",
-          "https://houseplantshop.com/cdn/shop/products/Aquatic_AnubiasHastifolica_-3-01_879208da-f69e-42e6-91f6-f616458e6e14_1546x1546.jpg?v=1630366754"        
-        ]
-      }
+      "id": 7,
+      "name": "Lemon Button Fern",
+      "type": "tropical indoor",
+      "description": "The lemon button fern is a dwarf variety of the common Boston fern and goes by many names including button sword fern, erect sword fern, little-leaved sword fern, and fishbone fern. The leaves give off a lemony scent when crushed.",
+      "size": "small",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/4_FERN_LEMON.BUTTON_1_1800x1800.jpg?v=1655238026",
+        "https://houseplantshop.com/cdn/shop/products/4_FERN_LEMON.BUTTON_2_1800x1800.jpg?v=1655238028"        
+      ]
+    },
+    {
+      "id": 8,
+      "name": "English Ivy-Green California",
+      "type": "tropical indoor",
+      "description": "a woody, evergreen, perennial vining plant. It features attractive, deep green colored foliage with no variegation. One of the best choices for a fast-growing arrangement or ground cover.",
+      "size": "medium",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/4_IVY_GREEN_1_1800x1800.jpg?v=1630959922",
+        "https://houseplantshop.com/cdn/shop/products/1-Ivy-GreenCalifornia-4DETAIL_1800x1800.jpg?v=1630959922"        
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chinese Evergreen-Lady Valentine",
+      "type": "tropical indoor",
+      "description": "A species of genus aglaonema categorized under araceae plants family, native to tropical and subtropical regions of asia.",
+      "size": "medium",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/4_CH.EVERGREEN_LADY.VALENTINE_1_1800x1800.jpg?v=1627690984",
+        "https://houseplantshop.com/cdn/shop/products/4_CH.EVERGREEN_LADY.VALENTINE_2_1800x1800.jpg?v=1655237106"        
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Monstera Adansonii-Swiss Cheese",
+      "type": "tropical indoor",
+      "description": "Swiss Cheese Plant' is named so because of its huge leaves with holes in them that resembles Swiss cheese. Leaf shape changes as the leaves mature from entire to having holes to eventually having perforations often extending to and breaking through the outer edges of the leaves and result in a pinnatifid leaf shape.",
+      "size": "large",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/1-Monstera-SwissCheese-6_1800x1800.jpg?v=1623090125",
+        "https://houseplantshop.com/cdn/shop/products/1-Monstera-SwissCheese-DETAIL-6_1800x1800.jpg?v=1623090125"        
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Snake Plant-Zeylanica",
+      "type": "tropical indoor",
+      "description": "Sansevieria zeylanica is a tough, hardy snake plant. The long sword-like leaves are dark green with wavy lighter green bands. They have rather a rugged, shabby-chic appearance often with rough, brown edges. Some minor leaf cracking is also common.",
+      "size": "large",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/1-Snake-Zeylanica-6_1800x1800.jpg?v=1627696235",
+        "https://houseplantshop.com/cdn/shop/products/1-Snake-Zeylanica-6-DETAIL_ab967883-8d45-419d-aa85-fdd701b1d378_1800x1800.jpg?v=1627696235"        
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Begonia-Frosty",
+      "type": "flowering",
+      "description": "Frosty is a bushy begonia that is erect with succulent stems. The many everblooming flowers are single and white in color. The bronze leaves are shiny, smooth and ovate. This plant can tolerate full sun.",
+      "size": "small",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_FROSTY_1800x1800.jpg?v=1680760771",
+        "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_FROSTY_2.1_1800x1800.jpg?v=1680760771"        
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Orchid-Yellow Phalaenopsis",
+      "type": "flowering",
+      "description": "One of the easiest varieties of orchids to grow as a houseplant, and is often called the beginner orchid due to its easy going nature, or the moth orchid due to the shape of its blooms. Water: Phalaenopsis is a 'monopodial' orchid, which means that it grows from a single stem.",
+      "size": "small",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/4_ORCHID_PHALAENOPSIS_YELLOW_1_1800x1800.jpg?v=1681784425",
+        "https://houseplantshop.com/cdn/shop/products/4_ORCHID_PHALAENOPSIS_YELLOW_2_1800x1800.jpg?v=1681784425"        
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Begonia Mocca Deep Orange",
+      "type": "flowering",
+      "description": "Mocca Deep Orange Begonia is an herbaceous annual with a mounded form. Its medium texture blends into the garden, but can always be balanced by a couple of finer or coarser plants for an effective composition.",
+      "size": "medium",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/7178a5dc-127e-40c2-be70-d9b3cb2ab3a5_1800x1800.png?v=1664476397",
+        "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_MOCCA.DEEP.ORANGE_2_1800x1800.jpg?v=1661883113"        
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Calla Lily Pink",
+      "type": "flowering",
+      "description": "A very proliferous bloomer, Zantedeschia rehmannii (Pink Calla Lily) is absolutely irresistible with its abundant and magnificent, creamy pink blushed trumpet-shaped flowers (spathes), 3 in. across (7 cm)",
+      "size": "large",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/6-CALLALILY-PINK-1_1800x1800.jpg?v=1675130495",
+        "https://houseplantshop.com/cdn/shop/products/59603bb8-4975-4964-81a0-bf0d09f66eef_1800x1800.png?v=1677688324"        
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Red Kalanchoe-Blossfeldiana",
+      "type": "flowering",
+      "description": "Kalanchoe blossfeldiana is a long-flowering perennial succulent that happily will grow indoors and out. For plant lovers who lack a green thumb, growing Kalanchoe can be a good way to boost self-confidence. These plants make for wonderful windowsill color as well as desk plants.",
+      "size": "large",
+      "images": [
+        "https://houseplantshop.com/cdn/shop/products/4-KALANCHOE-RED-1_1800x1800.jpg?v=1631568647",
+        "https://houseplantshop.com/cdn/shop/products/4-KALANCHOE-RED-2_1800x1800.jpg?v=1631568647"        
+      ]
+    }
   ]
 }
